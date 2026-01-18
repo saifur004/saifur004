@@ -118,6 +118,7 @@ IoT Solutions • Robotics • WebRTC
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#1a1a2e','tertiaryColor':'#16213e','fontSize':'16px'}}}%%
 mindmap
   root((Saifur Rahman))
     Machine Learning
