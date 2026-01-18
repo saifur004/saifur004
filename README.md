@@ -113,39 +113,6 @@ IoT Solutions • Robotics • WebRTC
 
 ---
 
-## 🔥 Skills Showcase
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'darkMode':'true', 'primaryColor':'#1e40af', 'primaryTextColor':'#fff', 'primaryBorderColor':'#3b82f6', 'lineColor':'#60a5fa', 'secondaryColor':'#7c3aed', 'tertiaryColor':'#059669', 'noteBkgColor':'#1e293b', 'noteTextColor':'#fff'}}}%%
-mindmap
-  root((Saifur Rahman))
-    Machine Learning
-      Supervised Learning
-      Linear Regression
-      Gradient Descent
-      Feature Engineering
-      Model Evaluation
-    IoT & Hardware
-      Raspberry Pi
-      Sensor Integration
-      Edge AI
-      Remote Robotics
-    Development
-      Python Programming
-      Data Analysis
-      TCP/IP Networking
-      WebRTC Streaming
-    Tools & Platforms
-      Git & GitHub
-      Jupyter Notebook
-      TensorFlow
-      Azure OpenAI
-```
-
-</div>
-
 ---
 
 ## 💼 Project Highlights
