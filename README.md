@@ -27,7 +27,7 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'darkMode':'true', 'primaryColor':'#1e40af', 'primaryTextColor':'#fff', 'primaryBorderColor':'#3b82f6', 'lineColor':'#60a5fa', 'secondaryColor':'#7c3aed', 'secondaryTextColor':'#fff', 'secondaryBorderColor':'#a78bfa', 'tertiaryColor':'#059669', 'tertiaryTextColor':'#fff', 'tertiaryBorderColor':'#10b981'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3b82f6', 'primaryTextColor':'#fff', 'primaryBorderColor':'#60a5fa', 'secondaryColor':'#8b5cf6', 'secondaryTextColor':'#fff', 'secondaryBorderColor':'#a78bfa', 'tertiaryColor':'#10b981', 'tertiaryTextColor':'#fff', 'tertiaryBorderColor':'#34d399', 'background':'#1a1a1a', 'mainBkg':'#3b82f6', 'secondBkg':'#8b5cf6', 'lineColor':'#60a5fa'}}}%%
 mindmap
   root((Saifur Rahman))
     Machine Learning
